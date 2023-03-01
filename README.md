@@ -6,7 +6,7 @@
 <br>
   <h1>Note:</h1><br>
   <ul>
-<li>  If you unable to open Telecom churn notebook then click <a href=https://nbviewer.org/github/nirbhay-cpu/Sentiment-Analysis/blob/main/Sentiment%20Analysis.ipynb>here</a>
+<li>  If you unable to open Sentiment Analysis notebook then click <a href=https://nbviewer.org/github/nirbhay-cpu/Sentiment-Analysis/blob/main/Sentiment%20Analysis.ipynb>here</a>
   <li>Dataset link :- <a href=https://www.kaggle.com/datasets/kazanova/sentiment140> Click here</a>
 </ul>
 
